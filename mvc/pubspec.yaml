@@ -25,7 +25,7 @@ dependencies:
     path: ../todos_app_core
   todos_repository_local_storage:
     path: ../todos_repository_local_storage
-  mvc_pattern:
+  mvc_pattern: ^3.8.0
 
 dev_dependencies:
   flutter_test:
